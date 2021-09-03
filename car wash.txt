@@ -1,0 +1,21 @@
+STAKE HOLDERS
+------------------
+1.Admin
+2.User
+3.Service provider
+
+
+FLOW OF OPERATION
+-------------------------
+1.open the app
+2.Login/Register
+3.check for nearby car wash service provider
+4.displays the results of nearby service providers
+5.Customer chooses the desired service provider
+6.Application provides various options to select like service package etc
+7.customers selects a request->(request)->application takes the request
+8.contact with the selected service provider
+9.service provider then picks up the car from location of customer
+10.customer pays through the app
+11.Application then make a payment to the service provider after everthing is done.
+
